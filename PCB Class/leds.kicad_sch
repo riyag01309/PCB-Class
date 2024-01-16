@@ -1531,7 +1531,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 74.93 50.8 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 00c2f894-b3dc-46c9-96bb-0d432ff3e5d8)
     (property "Reference" "D2" (id 0) (at 78.74 51.1174 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1539,7 +1539,7 @@
     (property "Value" "LED" (id 1) (at 78.74 53.6574 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 74.93 50.8 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 74.93 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.93 50.8 0)
@@ -1550,7 +1550,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 102.87 120.65 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 05ce70e2-a024-467e-8feb-f36413f27978)
     (property "Reference" "D27" (id 0) (at 106.68 120.9674 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1569,7 +1569,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 140.97 120.65 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 09265a33-0741-48b7-bbec-5033daccfa88)
     (property "Reference" "D57" (id 0) (at 144.78 120.9674 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1588,7 +1588,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 102.87 36.83 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 15d1750d-6850-4645-b254-0c467e16347b)
     (property "Reference" "D21" (id 0) (at 106.68 37.1474 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1607,7 +1607,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 128.27 120.65 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 19108e69-aa54-49a5-b87a-7a02e0b5e5b2)
     (property "Reference" "D47" (id 0) (at 132.08 120.9674 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1626,7 +1626,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.9 50.8 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 1e91dce2-3fce-4005-a333-674c68677079)
     (property "Reference" "D12" (id 0) (at 92.71 51.1174 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1634,7 +1634,7 @@
     (property "Value" "LED" (id 1) (at 92.71 53.6574 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 88.9 50.8 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 88.9 50.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 88.9 50.8 0)
@@ -1645,7 +1645,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.9 92.71 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 24752b9d-e9ba-45d8-b13e-6f75f1fedff0)
     (property "Reference" "D15" (id 0) (at 92.71 93.0274 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1653,7 +1653,7 @@
     (property "Value" "LED" (id 1) (at 92.71 95.5674 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 88.9 92.71 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 88.9 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 88.9 92.71 0)
@@ -1664,7 +1664,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 128.27 36.83 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 2754ae48-a9b4-4fb5-b415-e921662f8594)
     (property "Reference" "D41" (id 0) (at 132.08 37.1474 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1683,7 +1683,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 168.91 134.62 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 28ead8da-46f6-4c4b-9a5f-d01e9bd6429d)
     (property "Reference" "D78" (id 0) (at 172.72 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1702,7 +1702,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 154.94 50.8 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 29647067-575a-4bf6-88a9-bb1699a6d055)
     (property "Reference" "D62" (id 0) (at 158.75 51.1174 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1721,7 +1721,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 154.94 78.74 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 2c12a8d9-73d4-4dfd-8d72-037350893a02)
     (property "Reference" "D64" (id 0) (at 158.75 79.0574 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1740,7 +1740,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 74.93 106.68 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 2c88418f-c358-434e-a8b1-1078950a2fc3)
     (property "Reference" "D6" (id 0) (at 78.74 106.9974 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1748,7 +1748,7 @@
     (property "Value" "LED" (id 1) (at 78.74 109.5374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 74.93 106.68 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 74.93 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.93 106.68 0)
@@ -1759,7 +1759,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 168.91 120.65 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 2e7afc80-1df0-45d9-a3d5-13f1ba77b95f)
     (property "Reference" "D77" (id 0) (at 172.72 120.9674 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1778,7 +1778,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 115.57 64.77 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 3210ce4f-4d1c-46ba-b0ef-2a97ec803076)
     (property "Reference" "D33" (id 0) (at 119.38 65.0874 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1797,7 +1797,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 102.87 134.62 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 351cf021-d413-497b-842d-9fcf0ce69195)
     (property "Reference" "D28" (id 0) (at 106.68 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1816,7 +1816,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.9 120.65 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 36779976-de86-4af5-b87e-fae68108c7a0)
     (property "Reference" "D17" (id 0) (at 92.71 120.9674 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1835,7 +1835,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 102.87 106.68 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 3ef07a18-49c5-45de-89f8-ccf23854a00c)
     (property "Reference" "D26" (id 0) (at 106.68 106.9974 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1854,7 +1854,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 115.57 50.8 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 40b83511-4d29-4e23-94f7-8c19fab10f8f)
     (property "Reference" "D32" (id 0) (at 119.38 51.1174 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1873,7 +1873,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 115.57 134.62 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 4523fab2-2159-47cd-85a3-d39fbd227c17)
     (property "Reference" "D38" (id 0) (at 119.38 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1892,7 +1892,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 115.57 106.68 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 4d657403-a521-4c2b-b47d-30aee3083f34)
     (property "Reference" "D36" (id 0) (at 119.38 106.9974 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1911,7 +1911,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 168.91 106.68 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 502817d3-8d30-468d-93db-244b2e52832f)
     (property "Reference" "D76" (id 0) (at 172.72 106.9974 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1930,7 +1930,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 115.57 120.65 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 58bfb6bc-7970-45a1-9462-3e9fdf7071e3)
     (property "Reference" "D37" (id 0) (at 119.38 120.9674 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1949,7 +1949,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 140.97 36.83 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 5952411b-5152-42a5-9826-ff03923b4ae2)
     (property "Reference" "D51" (id 0) (at 144.78 37.1474 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1968,7 +1968,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 140.97 78.74 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 5becce2d-0f7d-4103-adb2-503f22043e82)
     (property "Reference" "D54" (id 0) (at 144.78 79.0574 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -1987,7 +1987,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 102.87 92.71 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 5de0d1cc-05c0-4857-8e28-f8b0746c9188)
     (property "Reference" "D25" (id 0) (at 106.68 93.0274 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2006,7 +2006,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 128.27 134.62 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 635de757-7f72-4960-878a-0be18b5b76db)
     (property "Reference" "D48" (id 0) (at 132.08 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2025,7 +2025,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.9 64.77 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 6458f0a8-5e32-497a-8aae-9eef88f76169)
     (property "Reference" "D13" (id 0) (at 92.71 65.0874 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2033,7 +2033,7 @@
     (property "Value" "LED" (id 1) (at 92.71 67.6274 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 88.9 64.77 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 88.9 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 88.9 64.77 0)
@@ -2044,7 +2044,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 102.87 50.8 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 682c0229-24c4-4629-a4db-b695474f1608)
     (property "Reference" "D22" (id 0) (at 106.68 51.1174 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2063,7 +2063,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 140.97 106.68 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 6c66d58a-c2cc-4b09-95be-4baccf8f2612)
     (property "Reference" "D56" (id 0) (at 144.78 106.9974 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2082,7 +2082,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.9 36.83 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 6c8e022b-be2c-4b2f-98ea-88a2db2da7b5)
     (property "Reference" "D11" (id 0) (at 92.71 37.1474 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2090,7 +2090,7 @@
     (property "Value" "LED" (id 1) (at 92.71 39.6874 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 88.9 36.83 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 88.9 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 88.9 36.83 0)
@@ -2101,7 +2101,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 154.94 120.65 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 6d0adcdb-ac8a-4e59-b4c3-f2485f6c76d5)
     (property "Reference" "D67" (id 0) (at 158.75 120.9674 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2120,7 +2120,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 154.94 64.77 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 75efd3ce-31f6-4e18-bb86-6951681349c8)
     (property "Reference" "D63" (id 0) (at 158.75 65.0874 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2139,7 +2139,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 168.91 50.8 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 78739d8e-3011-4bf9-8268-da30cc708f55)
     (property "Reference" "D72" (id 0) (at 172.72 51.1174 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2158,7 +2158,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 140.97 50.8 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 7f0bbac0-66fa-455b-b839-426539c4e779)
     (property "Reference" "D52" (id 0) (at 144.78 51.1174 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2177,7 +2177,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 74.93 36.83 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 8ae9efe3-a307-4465-b7a7-84f04bb69328)
     (property "Reference" "D1" (id 0) (at 78.74 37.1474 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2185,7 +2185,7 @@
     (property "Value" "LED" (id 1) (at 78.74 39.6874 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 74.93 36.83 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 74.93 36.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.93 36.83 0)
@@ -2196,7 +2196,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 140.97 92.71 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 8c67ef4a-5386-42db-9992-226adcaadd32)
     (property "Reference" "D55" (id 0) (at 144.78 93.0274 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2215,7 +2215,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 128.27 106.68 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 958da075-07bc-4bc7-994e-84bc815d980a)
     (property "Reference" "D46" (id 0) (at 132.08 106.9974 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2234,7 +2234,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 102.87 78.74 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 96f275a5-9f2a-4fbf-9518-ee5cfb36efd8)
     (property "Reference" "D24" (id 0) (at 106.68 79.0574 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2253,7 +2253,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 128.27 78.74 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid 995f9573-5131-42aa-bf98-cb0f50150985)
     (property "Reference" "D44" (id 0) (at 132.08 79.0574 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2272,7 +2272,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.9 78.74 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid a0edc8ef-7253-4a26-9352-25466b168657)
     (property "Reference" "D14" (id 0) (at 92.71 79.0574 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2280,7 +2280,7 @@
     (property "Value" "LED" (id 1) (at 92.71 81.5974 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 88.9 78.74 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 88.9 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 88.9 78.74 0)
@@ -2291,7 +2291,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 154.94 134.62 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid a500443c-7f7f-425c-b45d-8361573f0bee)
     (property "Reference" "D68" (id 0) (at 158.75 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2310,7 +2310,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 74.93 78.74 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid a66d192d-0245-4931-8106-b70eedac227a)
     (property "Reference" "D4" (id 0) (at 78.74 79.0574 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2318,7 +2318,7 @@
     (property "Value" "LED" (id 1) (at 78.74 81.5974 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 74.93 78.74 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 74.93 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.93 78.74 0)
@@ -2329,7 +2329,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 168.91 92.71 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid b14e8104-3264-4f62-8d31-c6f833e5c513)
     (property "Reference" "D75" (id 0) (at 172.72 93.0274 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2348,7 +2348,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 140.97 64.77 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid b4c3657a-a345-4039-bcef-130445a215bd)
     (property "Reference" "D53" (id 0) (at 144.78 65.0874 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2367,7 +2367,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 115.57 92.71 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid bcf55777-f7da-42db-92e0-5e04ea204bd5)
     (property "Reference" "D35" (id 0) (at 119.38 93.0274 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2386,7 +2386,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 115.57 36.83 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid be03d251-b6f1-4671-af5a-37851c268c69)
     (property "Reference" "D31" (id 0) (at 119.38 37.1474 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2405,7 +2405,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 154.94 106.68 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid bfe14f08-988f-417e-9931-fdab51e12bea)
     (property "Reference" "D66" (id 0) (at 158.75 106.9974 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2424,7 +2424,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 128.27 64.77 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid c04fe955-4948-4513-8f16-d753e1fb6c0e)
     (property "Reference" "D43" (id 0) (at 132.08 65.0874 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2443,7 +2443,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.9 134.62 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid c120166d-98d6-4b0b-828a-31e80a7a703b)
     (property "Reference" "D18" (id 0) (at 92.71 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2462,7 +2462,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 154.94 92.71 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid c3d74934-9c18-4431-9097-53582399d610)
     (property "Reference" "D65" (id 0) (at 158.75 93.0274 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2481,7 +2481,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 140.97 134.62 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid c675a7f3-6d5f-4da0-92e7-2ab7608d2201)
     (property "Reference" "D58" (id 0) (at 144.78 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2500,7 +2500,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 102.87 64.77 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid d10ee662-65af-42c4-b5a5-f9b6bc9f5b99)
     (property "Reference" "D23" (id 0) (at 106.68 65.0874 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2519,7 +2519,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 74.93 92.71 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid d45aa107-e322-4c19-933a-cb76c33568f9)
     (property "Reference" "D5" (id 0) (at 78.74 93.0274 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2527,7 +2527,7 @@
     (property "Value" "LED" (id 1) (at 78.74 95.5674 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 74.93 92.71 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 74.93 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.93 92.71 0)
@@ -2538,7 +2538,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 168.91 78.74 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid d4da54b6-a22b-4bde-aecc-c849cf67ea05)
     (property "Reference" "D74" (id 0) (at 172.72 79.0574 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2557,7 +2557,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 88.9 106.68 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid d76b383a-3409-4f53-b7cb-29d3a507d231)
     (property "Reference" "D16" (id 0) (at 92.71 106.9974 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2576,7 +2576,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 115.57 78.74 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid e01c28e0-85d7-4fd5-9111-b02a48621ef8)
     (property "Reference" "D34" (id 0) (at 119.38 79.0574 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2595,7 +2595,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 74.93 120.65 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid e163e636-d7dc-4418-8c8a-57b8d1ffceff)
     (property "Reference" "D7" (id 0) (at 78.74 120.9674 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2603,7 +2603,7 @@
     (property "Value" "LED" (id 1) (at 78.74 123.5074 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 74.93 120.65 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 74.93 120.65 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.93 120.65 0)
@@ -2614,7 +2614,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 128.27 92.71 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid e2fce409-f84d-494b-af80-20fcfc987cda)
     (property "Reference" "D45" (id 0) (at 132.08 93.0274 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2633,7 +2633,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 74.93 134.62 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid e68fd3e3-7b45-4795-865f-232e6a0cf7d4)
     (property "Reference" "D8" (id 0) (at 78.74 134.9374 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2641,7 +2641,7 @@
     (property "Value" "LED" (id 1) (at 78.74 137.4774 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 74.93 134.62 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 74.93 134.62 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.93 134.62 0)
@@ -2652,7 +2652,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 128.27 50.8 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid f0f73f14-5725-41f5-8603-925dba2de9cf)
     (property "Reference" "D42" (id 0) (at 132.08 51.1174 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2671,7 +2671,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 168.91 36.83 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid f4d238cd-aa2e-4532-818a-01c58ce135a2)
     (property "Reference" "D71" (id 0) (at 172.72 37.1474 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2690,7 +2690,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 168.91 64.77 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid fa44dcb8-b7fb-4ad9-ab35-20160eb2f189)
     (property "Reference" "D73" (id 0) (at 172.72 65.0874 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2709,7 +2709,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 74.93 64.77 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid fe22773d-4c52-43e5-9f6c-72720c7e641a)
     (property "Reference" "D3" (id 0) (at 78.74 65.0874 90)
       (effects (font (size 1.27 1.27)) (justify right))
@@ -2717,7 +2717,7 @@
     (property "Value" "LED" (id 1) (at 78.74 67.6274 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 74.93 64.77 0)
+    (property "Footprint" "LED_SMD:LED_0201_0603Metric" (id 2) (at 74.93 64.77 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.93 64.77 0)
@@ -2728,7 +2728,7 @@
   )
 
   (symbol (lib_id "Device:LED") (at 154.94 36.83 90) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom yes) (on_board no) (fields_autoplaced)
     (uuid fe78ca44-8b0a-4ab3-aab5-e5323e8ce3cc)
     (property "Reference" "D61" (id 0) (at 158.75 37.1474 90)
       (effects (font (size 1.27 1.27)) (justify right))
