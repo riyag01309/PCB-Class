@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name "ESP32_S3_WROOM_1_N4 (1)")(type "KiCad")(uri "/Users/riya/Downloads/ESP32_S3_WROOM_1_N4 (1)")(options "")(descr ""))
-  (lib (name "AP2112K_3_3TRG1 (3)")(type "KiCad")(uri "/Users/riya/Downloads/AP2112K_3_3TRG1 (3)")(options "")(descr ""))
-)
