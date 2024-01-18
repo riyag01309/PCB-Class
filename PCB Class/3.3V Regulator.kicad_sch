@@ -326,7 +326,7 @@
     (uuid 4178c0e3-1964-4646-8dae-2cbfc9514f80)
     (property "Reference" "U2" (id 0) (at 138.43 63.5 0))
     (property "Value" "AP2112K-3.3TRG1" (id 1) (at 138.43 66.04 0))
-    (property "Footprint" "AP2112K-3.3TRG1:SOT95P285X140-5N" (id 2) (at 138.43 76.2 0)
+    (property "Footprint" "AP2112K_3_3TRG1 (3):SOT95P285X140-5N" (id 2) (at 138.43 76.2 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (id 3) (at 138.43 76.2 0)
